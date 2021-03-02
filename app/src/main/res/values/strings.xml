@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab7Android</string>
+    <string name="download">donwnload</string>
+    <string name="notDownloaded">notDownload</string>
+    <string name="task3">task3</string>
+</resources>
